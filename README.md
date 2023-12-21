@@ -28,6 +28,5 @@
 ###
 
 <br clear="both">
-![snake animation](https://github.com/<seu semihycl2397>/<seu semihycl2397>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
