@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Semih, I am a Software Engineer. I am developing as a Backen Developer.</h2>
 
 ###
 
