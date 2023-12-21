@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Semih, I am a Software Engineer. I am developing as a Backen Developer.</h2>
+<h2 align="left">Hi 👋! My name is Semih, I am a Software Engineer. I am developing as a Backend Developer.</h2>
 
 ###
 
