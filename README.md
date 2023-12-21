@@ -19,7 +19,6 @@
 
 ###
 ###
-<br>
 ![](https://komarev.com/ghpvc/?username=semihycl2397&color=blue)
 
 ###
