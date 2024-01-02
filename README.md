@@ -24,7 +24,7 @@
 ![](https://komarev.com/ghpvc/?username=semihycl2397&color=blue)
 
 ###
- ![Snake animation](https://github.com/semihycl2397/semihycl2397/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/semihycl2397/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <br clear="both">
