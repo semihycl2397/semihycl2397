@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Semih, I am a Software Engineer. I am developing as a Backend Developer.</h2>
+<h2 align="left">Hi 👋! My name is Semih, I am a Software Engineer. I am developing as Backend and Frontend Developer.</h2>
 
 ###
 <h2 align="left">My GitHub Stats 📊</h2>
