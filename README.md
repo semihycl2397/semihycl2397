@@ -25,12 +25,6 @@
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" height="40" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="40" />
-  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40" />
   </a>
@@ -52,21 +46,12 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40" />
   </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" height="40" />
-  </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="40" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server" height="40" />
   </a>
-  <a href="https://www.microsoft.com/security/blog/microsoft-entra/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Entra ID" height="40" />
-</a>
-<a href="https://developer.microsoft.com/en-us/graph" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Microsoft_Graph-0078D7?style=for-the-badge&logo=microsoftgraph&logoColor=white" alt="Microsoft Graph" height="40" />
-</a>
 <a href="https://developer.microsoft.com/en-us/microsoft-teams" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Microsoft Teams App Development" height="40" />
 </a>
@@ -81,9 +66,6 @@
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="40" />
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="40" />
