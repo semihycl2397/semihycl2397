@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run todoist-readme to update README.md
-        uses: abhisheknaiidu/todoist-readme@master
+        uses: abhisheknaiidu/todoist-readme@main
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
           PREMIUM: ""
