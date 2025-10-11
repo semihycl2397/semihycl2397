@@ -17,8 +17,8 @@ jobs:
           PREMIUM: ""
       - name: Commit and push changes
         run: |
-          git config --global user.name "Uğur CAN"
-          git config --global user.email "ugurc1477@gmail.com"
+          git config --global user.name "Semih YÜCEL"
+          git config --global user.email "semihycl0@gmail.com"
           git add README.md
           git commit -m "Update todoist stats"
           git push
