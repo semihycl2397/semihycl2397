@@ -126,7 +126,7 @@
         </picture>
       </td>
     </tr>
-    <tr>
+  <tr>
       <td align="center" colspan="2">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semihycl2397/semihycl2397/refs/heads/output-three-d/profile-night-rainbow.svg?v=1" />
