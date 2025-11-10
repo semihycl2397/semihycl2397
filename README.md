@@ -127,13 +127,13 @@
       </td>
     </tr>
   <tr>
-      <td align="center" colspan="2">
+      <!-- <td align="center" colspan="2">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semihycl2397/semihycl2397/refs/heads/output-three-d/profile-night-rainbow.svg?v=1" />
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/semihycl2397/semihycl2397/refs/heads/output-three-d/profile-night-rainbow.svg?v=1" />
           <img alt="github-three-d" src="https://raw.githubusercontent.com/semihycl2397/semihycl2397/refs/heads/output-three-d/profile-night-rainbow.svg?v=1" />
         </picture>
-      </td>
+      </td> -->
     </tr>
     <tr>
       <td align="center" colspan="2">
