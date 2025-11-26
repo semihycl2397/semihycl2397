@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="40" />
   </a>
    <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="SpringBoot" height="40" />
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="SpringBoot" height="60" />
   </a>
 </p>
 <hr>
